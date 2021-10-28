@@ -5,7 +5,7 @@ Clicar na primeira caixa de área e então executar o script preenchendo o nome 
 Precisa preencher algumas coisas com valores aceitáveis mesmo que não forem usar depois.  
 
 
-Como utilizar:
+# Como utilizar:  
 Criar um arquivo .csv para cada pavimento somente com os valores e na ordem a sere escrito.  
 Salvar na mesma pasta do arquivo em python (.py)  
 Executar o arquivo python e vá para o meta modelo  
